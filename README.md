@@ -2,11 +2,8 @@
 ### How to run this aplication?
 1.Dowload 
 https://github.com/yaranik/Hamming-code/blob/master/%D0%9A%D0%BE%D0%B4_%D0%A5%D1%8D%D0%BC%D0%BC%D0%B8%D0%BD%D0%B3%D0%B0.rar
-
 2. Unzip on your PC.
-
 3. Open Код_Хэмминга-win32-debug-project1.exe.
-
 4. Use the application.
 
 
