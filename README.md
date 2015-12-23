@@ -9,6 +9,7 @@ In this version you can only work with one symbol;
 4. Specifies the location for check bits.
 5. Considers check bits.
 6. Prints result.
+ 
 ### Some words about the development of the application
 Development environment - Embarcadero RAD Studio XE3
 
